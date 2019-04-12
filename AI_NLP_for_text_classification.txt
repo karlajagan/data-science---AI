@@ -1,0 +1,13 @@
+Natural Language Processing (NLP) for Text Classification
+
+Presentation
+
+https://meanderingstream.github.io/nlp_for_text_classification/#/
+
+Code
+
+https://github.com/meanderingstream/nlp_for_text_classification
+
+Genomics AI
+
+https://github.com/Meyer/Genomic-ULMFIT

@@ -1,0 +1,27 @@
+Date Science your Vacation
+
+link
+
+bit.ly/tf-syv
+
+we are going to use Google hosted Python notebook
+
+bit.ly/tf-vacation
+
+relative frequency
+
+bit.ly/tfidb-wiki
+
+We can get a sense of context using N-Grams
+
+bit.ly/ngram-wiki
+
+Ways to learn data science:
+
+Data Camp
+Data Quest
+the usual: google, meetup, youtube
+
+Thinkful two-week free trial
+
+bit.ly/freetrial-ds
